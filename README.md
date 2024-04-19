@@ -1,0 +1,1 @@
+npx sion-currency-converter
